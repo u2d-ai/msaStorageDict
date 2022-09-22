@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="http://msa.u2d.ai/images/msa_logo_big.png?raw=true" alt="MSA SDK image"/>
-</p>
+![logo](images/logo_big.png){ align=center }
+
 
 ------
 <p align="center">
