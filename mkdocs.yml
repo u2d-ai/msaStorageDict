@@ -150,23 +150,7 @@ extra_css:
 nav:
   - Home:
     - index.md
-    - history-design-future.md
-    - used_tools.md
+    - Usage: signals.md
     - Used Libraries: requirements.md
-  - Guides:
-    - Intro: guides/index.md
-    # - Modules Overview: guides/modules_overview.md
-    - Storage Dict: guides/storagedict.md
-    - Signals: guides/signals.md
-    - Feature Management: guides/features.md
-  - Sites & UI:
-    - Admin: sites/admin.md
-    - Auth Admin: sites/auth.md
-    - Web UI - JustPy: sites/justpy.md
-    - Web UI - amis: sites/amis.md
-  - Examples:
-    - MSAApp: examples/example_app.md
-    - CRUD: examples/example_crud.md
-    - Scheduler: examples/example_scheduler.md
   - Code Reference: reference/
   - Release notes: release-notes.md

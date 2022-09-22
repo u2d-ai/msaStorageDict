@@ -1,8 +1,7 @@
 import base64
+import json
 import pickle
 from abc import ABC
-
-import json
 
 
 class EncoderError(ValueError):

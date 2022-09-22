@@ -1,6 +1,6 @@
 # General Dependencies
 setuptools~=65.2.0 # Easily download, build, install, upgrade, and uninstall Python packages
-autoflake~=1.6.0 # Removes unused imports and unused variables
+autoflake~=1.6.1 # Removes unused imports and unused variables
 flake8~=5.0.4 # modular source code checker: pep8 pyflakes and co
 isort~=5.10.1 # library to sort Python imports.
 mypy~=0.971 # Optional static typing for Python
