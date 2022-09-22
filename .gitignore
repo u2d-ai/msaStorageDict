@@ -1,0 +1,7 @@
+/dist/
+/dist_docs/
+
+/msaStorageDict.egg-info/
+/msaStorageDict/msa_sdk.json
+/msaStorageDict/msa_sdk.sqlite_db
+
