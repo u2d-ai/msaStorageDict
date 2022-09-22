@@ -5,7 +5,7 @@ from .memory import MSAMemoryDict
 from .redis import MSARedisDict
 from .zookeeper import MSAZookeeperDict
 
-version = "0.0.1"
+version = "0.0.2"
 __author__ = "Stefan Welcker"
 __copyright__ = "Copyright 2022, U2D.ai"
 __license__ = "MIT"
