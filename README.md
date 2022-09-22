@@ -18,7 +18,7 @@
 
 ------
 
-**Documentation**: <a href="https://msastoragedict.u2d.ai/" target="_blank">MSA Storage Dict Documentation (http://msastoragedict.u2d.ai/)</a>
+**Documentation**: <a href="https://msastoragedict.u2d.ai/" target="_blank">MSA Storage Dict Documentation (https://msastoragedict.u2d.ai/)</a>
 
 ------
 
