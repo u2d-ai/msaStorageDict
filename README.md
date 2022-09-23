@@ -28,7 +28,7 @@
 
 ## License Agreement
 
-- `msaStorageDict`Based on `MIT` open source and free to use, it is free for commercial use, but please clearly show the copyright information about msaStorageDict - Auth Admin in the display interface.
+- `msaStorageDict`Based on `MIT` open source and free to use, it is free for commercial use, but please show/list the copyright information about msaStorageDict somewhere.
 
 
 ## How to create the documentation
