@@ -150,7 +150,7 @@ extra_css:
 nav:
   - Home:
     - index.md
-    - Usage: storagedict.md
+    - Usage: usage.md
     - Used Libraries: requirements.md
   - Code Reference: reference/
   - Release notes: release-notes.md

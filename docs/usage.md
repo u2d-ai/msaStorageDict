@@ -25,26 +25,7 @@ Once you have an instance of a storagedict, just use it like you would a
 normal dictionary:
 
 ```python
-from msaStorageDict import MSARedisDict
-from redis import Redis
-
-# Construct a new MSARedisDict object
-settings = MSARedisDict('settings', Redis())
-
-# Assign and retrieve a value from the dict
-settings['foo'] = 'bar'
-settings['foo']
->>> 'bar'
-
-# Assign and retrieve another value
-settings['dont'] = 'trick'
-settings['dont']
->>> 'trick'
-
-# Delete a value and access receives a KeyError
-del settings['foo']
-settings['foo']
->>> KeyError
+{!./docs_src/home/index_first.py!}
 ```
 
 All dict types pickle their objects inside their durable data store, so
