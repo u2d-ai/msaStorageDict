@@ -23,7 +23,7 @@ setup_info = dict(
         'Source': 'https://github.com/swelcker/msaStorageDict',
         'Tracker': 'https://github.com/swelcker/msaStorageDict/issues',
     },
-    description='FastAPI based Microservice Architecture Development Kit',
+    description='Dict with a Storage Backend like redis or Zookeeper',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
     license='MIT',

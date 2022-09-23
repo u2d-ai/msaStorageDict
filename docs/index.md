@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://msastoragedict.u2d.ai/images/logo_big.png?raw=true" alt="MSA StorageDict image"/>
+  <img src="http://msastoragedict.u2d.ai/images/msaStorageDict_logo.png?raw=true" alt="MSA StorageDict image"/>
 </p>
 
 ------
