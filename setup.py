@@ -19,7 +19,7 @@ setup_info = dict(
     url='https://github.com/swelcker/msaStorageDict',
     download_url='http://pypi.python.org/pypi/msaStorageDict',
     project_urls={
-        'Documentation': 'http://msa.u2d.ai/',
+        'Documentation': 'http://msaStorageDict.u2d.ai/',
         'Source': 'https://github.com/swelcker/msaStorageDict',
         'Tracker': 'https://github.com/swelcker/msaStorageDict/issues',
     },

@@ -4,7 +4,7 @@ docs_dir: docs
 # site
 site_name: msaStorageDict - Documentation
 site_dir: dist_docs
-site_url: https://msa.u2d.ai/
+site_url: https://msaStorageDict.u2d.ai/
 
 # Repo
 repo_url: https://github.com/swelcker/msaStorageDict
