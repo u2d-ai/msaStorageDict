@@ -19,11 +19,11 @@ setup_info = dict(
     url='https://github.com/swelcker/msaStorageDict',
     download_url='http://pypi.python.org/pypi/msaStorageDict',
     project_urls={
-        'Documentation': 'http://msa.u2d.ai/',
+        'Documentation': 'http://msaStorageDict.u2d.ai/',
         'Source': 'https://github.com/swelcker/msaStorageDict',
         'Tracker': 'https://github.com/swelcker/msaStorageDict/issues',
     },
-    description='FastAPI based Microservice Architecture Development Kit',
+    description='Dict with a Storage Backend like redis or Zookeeper',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
     license='MIT',

@@ -1,6 +1,9 @@
 # Release Notes
 ## Possible future features:
 
+## 0.0.3
+Added some docu
+
 ## 0.0.2
 Added some docu
 

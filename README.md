@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://msastoragedict.u2d.ai/images/logo_big.png?raw=true" alt="MSA StorageDict image"/>
+  <img src="http://logos.u2d.ai/msaStorageDict_logo.png?raw=true" alt="MSA StorageDict image"/>
 </p>
 
 ------
@@ -28,7 +28,7 @@
 
 ## License Agreement
 
-- `msaStorageDict`Based on `MIT` open source and free to use, it is free for commercial use, but please clearly show the copyright information about msaStorageDict - Auth Admin in the display interface.
+- `msaStorageDict`Based on `MIT` open source and free to use, it is free for commercial use, but please show/list the copyright information about msaStorageDict somewhere.
 
 
 ## How to create the documentation
