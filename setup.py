@@ -1,8 +1,15 @@
 #!/usr/bin/env python
 from setuptools import setup, find_packages
+import setuptools
 
+setuptools.setup(
+    setuptools_git_versioning={
+        "enabled": True,
+    },
+    setup_requires=["setuptools-git-versioning"],
+)
 
-# Parse version number from pyglet/__init__.py:
+# Parse version number from __init__.py:
 with open('msaStorageDict/__init__.py') as f:
     info = {}
     for line in f:
